@@ -1,0 +1,40 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    }
+.start{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-evenly;
+   
+}    
+.bg-blue{
+    background: cornflowerblue;
+    color: white;
+    
+}
+.bg-grey{
+    background: grey;
+    box-shadow: 1px 1px 2px #e7e7e7;
+    border-radius: 4px;
+    margin: 20px 50px;
+  }
+.center{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cursive{
+    font-family: 'Pacifico', cursive;
+}
+.far {
+    font-weight: 800;
+}
+.iphone{
+    height: 50vh;
+
+}
